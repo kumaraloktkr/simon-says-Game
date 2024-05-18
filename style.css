@@ -1,0 +1,38 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 2px solid black;
+    margin: 25px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background: #d95980;
+}
+.yellow{
+    background: #f99b45;
+}
+.green{
+    background: rgb(0, 50,0);
+}
+.purple{
+    background: #819ff9;
+}
+
+.flash{
+    background: white;
+
+}
+.userFlash{
+    background: green;
+}

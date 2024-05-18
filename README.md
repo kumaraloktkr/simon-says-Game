@@ -1,1 +1,2 @@
-# simon-says-Game
+# simon-says-Game 
+Using HTML, CSS, JavaScript;
